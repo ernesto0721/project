@@ -1,0 +1,10 @@
+C:\Users\jr790\source\repos\project\ejercicio\bin\Debug\ejercicio.exe.config
+C:\Users\jr790\source\repos\project\ejercicio\bin\Debug\ejercicio.exe
+C:\Users\jr790\source\repos\project\ejercicio\bin\Debug\ejercicio.pdb
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.csproj.AssemblyReference.cache
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.Form1.resources
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.Properties.Resources.resources
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.csproj.GenerateResource.cache
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.exe
+C:\Users\jr790\source\repos\project\ejercicio\obj\Debug\ejercicio.pdb
